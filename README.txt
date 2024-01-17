@@ -5,4 +5,4 @@ PROJECT IDEA:- MysterioCult is an enigmatic project cataloging bizarre rituals, 
 
 FEATURES OF MYSTERIOCULT :- 1. Responsive design 
                             2. Personalized User Accounts
-			                3. Media Galleries
+	                    3. Media Galleries
